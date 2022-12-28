@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "lilly",
+      "email": "lilly@1200",
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "name": "anu",
+      "email": "anu@1234",
+      "status": "Active"
+    }
+    
+    
+  ]
+}

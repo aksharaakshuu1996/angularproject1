@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "5",
+      "name": "ram",
+      "email": "ram@0101",
+      "status": "single"
+    },
+    {
+      "id": "3",
+      "name": "meenu",
+      "email": "meenu@3434",
+      "status": "single"
+    },
+    {
+      "id": "4",
+      "name": "tom",
+      "email": "tom@6655",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "bibin",
+      "email": "bibin@1990",
+      "status": "Active"
+    }
+  ]
+}
